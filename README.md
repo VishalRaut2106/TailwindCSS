@@ -1,7 +1,7 @@
 #Tailwind
 ---
->!Note 
->* here is Website i build while learning tailwind [**Check it here**](https://vishalraut2106.github.io/TailwindCSS/)
+> [!NOTE]
+!!! Here is Website i Build While Learning Tailwind [**Check it here**](https://vishalraut2106.github.io/TailwindCSS/)
 
 ## 📌 1. What is Tailwind CSS?
 
